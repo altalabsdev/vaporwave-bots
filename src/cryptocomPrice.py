@@ -1,0 +1,1 @@
+# Crypto.com market data api coming soon https://crypto.com/price/market-data-api
